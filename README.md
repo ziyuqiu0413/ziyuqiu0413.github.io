@@ -68,9 +68,8 @@ Drawn from `Desktop/Ziyu Qiu_CV_2025 .docx` and the AAS 2026 abstract in
 - **Standing:** the site presents you as a Ph.D. student in History and East Asian
   Languages (entered 2026, advisor Mark C. Elliott), with the M.A. listed as completed in
   May 2026. The CV predates both.
-- **Contact:** FAS email and phone number are published; the office address is not. Public
-  phone numbers do attract spam calls — delete the Telephone block in `index.html` if that
-  becomes a nuisance.
+- **Contact:** only the FAS email is published. Phone number and office address are
+  deliberately left off the public page.
 - **The bio and project descriptions are my drafts**, paraphrased from your own abstract
   and thesis titles. Read them as your own voice or rewrite — this is the part most worth
   putting in your own words.
