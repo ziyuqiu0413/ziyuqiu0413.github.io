@@ -444,6 +444,23 @@ h3.sub {
 .project p { margin: 0 0 .9rem; color: var(--ink-soft); }
 .project p:last-child { margin-bottom: 0; }
 
+/* plate — a framed illustration set into the text column */
+.plate { margin: 2.1rem 0 0; max-width: 30rem; }
+.plate__frame {
+  padding: .5rem;
+  background: var(--paper-warm);
+  border: 1px solid var(--rule);
+  box-shadow: 0 1px 0 rgba(31,28,24,.05), 0 14px 34px -22px rgba(31,28,24,.4);
+}
+.plate img { width: 100%; height: auto; }
+.plate figcaption {
+  margin-top: .85rem;
+  font-size: .84rem;
+  line-height: 1.65;
+  color: var(--ink-faint);
+}
+.plate figcaption .han { color: var(--seal); letter-spacing: .1em; }
+
 /* ============================================================
    Contact
    ============================================================ */
